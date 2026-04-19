@@ -1,5 +1,3 @@
-Buyurun, istədiyiniz məzmunu tam şəkildə Markdown formatında təqdim edirəm. Bu mətni kopyalayıb birbaşa `.md` faylı kimi yadda saxlaya bilərsiniz:
-
 # Multi-Modal Product Classifier Using Text and Images
 
 ## 📌 Project Overview
